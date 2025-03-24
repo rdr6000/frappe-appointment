@@ -11,12 +11,12 @@ const PoweredBy = () => {
           <Typography variant="p"> Powered by</Typography>
           <Typography variant="p">
             <a
-              href="https://github.com/rtCamp/frappe-appointment/"
+              href="https://arkone.dev"
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold hover:underline text-blue-400"
             >
-              Frappe Appointment
+              ArkOne Softwares
             </a>
           </Typography>
         </Typography>
